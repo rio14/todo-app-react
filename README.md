@@ -1,4 +1,6 @@
 # Steps to run application
+## Prototype
+https://codepen.io/febrithm/pen/QWMrgEg
 ### Clone the repo
 ```git clone git@github.com:rio14/todo-app-react.git```
 
